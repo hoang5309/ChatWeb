@@ -1,0 +1,35 @@
+body{
+    background-image: url("darling.png");
+    margin: 0px;
+    padding: 0px;
+}
+.form{
+    background-color: rgb(220, 91, 214, .7);
+    text-align: left;
+    margin-top: 300px;
+    width: 280px;
+    height: 190px;
+    margin-left: 610px;
+}
+.heart{
+    margin-left: 100px;
+    width: 100px;
+    height: 100px;
+}
+.input{
+    padding-left: 30px;
+    border: 2px solid rgb(200, 200, 200);
+    border-radius: 5px;
+    height: 20px;
+}
+.wrappa{
+    margin-top: 5px;
+}
+.pass{
+    margin-left: 4.5px;
+}
+.submit{
+    position: absolute;
+    margin-top: 5px;
+    margin-left: 122px;
+}
