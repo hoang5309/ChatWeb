@@ -26,8 +26,10 @@
                 <lable class="passText">Password:</lable>
             </span>
                     <input class="pass input" type="password" name="password" placeholder="Cutie's Password"></input>
-        </div>       
-        <span class="submit">Logins</span></br>
+        </div>
+        <span class="submit">       
+            <lable class="submitText">Logins</lable>
+        </span></br>
     </div>
 </body>
 </html>

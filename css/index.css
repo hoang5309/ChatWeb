@@ -31,5 +31,12 @@ body{
 .submit{
     position: absolute;
     margin-top: 5px;
-    margin-left: 122px;
+    text-align: center;
+    cursor: pointer;
+    width: 280px;
+}
+.submit::after {
+    background-color: white;
+    transform-origin:left;
+    transition:width 0.25s ease;
 }
