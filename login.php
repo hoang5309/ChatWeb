@@ -25,7 +25,7 @@
             <span class="wrap2 pa">
                 <lable class="passText">Password:</lable>
             </span>
-                    <input class="pass input" name="password" placeholder="Cutie's Password"></input>
+                    <input class="pass input" type="password" name="password" placeholder="Cutie's Password"></input>
         </div>       
         <span class="submit">Logins</span></br>
     </div>
