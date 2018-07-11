@@ -1,7 +1,9 @@
-body{
-    background-image: url("darling.png");
+*{
     margin: 0px;
     padding: 0px;
+}
+body{
+    background-image: url("darling.png");
     text-align: center;
 }
 .form{
